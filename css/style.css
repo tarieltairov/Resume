@@ -1,0 +1,133 @@
+* {
+  /* border: solid 1px black; */
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614542034_26-p-fon-belii-tekstura-31.jpg);
+  opacity: 1;
+}
+.beginer {
+  width: 100%;
+  height: 550px;
+}
+.block-1 {
+  width: 500px;
+}
+.right {
+  width: 90%;
+}
+.right h2 {
+  margin-top: 110px;
+}
+.skills {
+  width: 100%;
+  height: 600px;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.skills__left {
+  width: 45%;
+  height: auto;
+  background-color: lightsalmon;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+.skills__right {
+  width: 45%;
+  height: auto;
+  background-color: lightsalmon;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+.cart {
+  width: 100%;
+  height: 300px;
+  background-color: gray;
+  margin-bottom: 200px;
+}
+.cart__inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-2 {
+  width: 100%;
+  height: 300px;
+  background-color: lightseagreen;
+}
+.block1 {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+footer {
+  width: 100%;
+  background-color: black;
+  margin-top: 200px;
+}
+
+.footer__inner {
+  justify-content: space-between;
+  align-items: flex-start;
+  color: darkgray;
+  padding-top: 20px;
+}
+.right p {
+  font-size: 25px;
+}
+
+.d-block {
+  border-radius: 20px;
+}
+.navbar {
+  background-color: rgb(168, 164, 155);
+  border-radius: 10px;
+}
+.line {
+  width: 100%;
+  background-color: red;
+  height: 5px;
+
+  animation-name: line;
+  animation-duration: 4s;
+  transition: 4s;
+}
+
+.progress-bar {
+  text-align: center;
+}
+.main{
+    padding-top: 50px;
+    text-align: center;
+    margin-top: 200px;
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+.perfumes{
+    width: 100%;
+    height: auto;
+    padding: 30px 10px;
+}
+#hr{
+    padding: 100px;
+}
+#ht{
+    padding: 50px 100px;
+}
+.main img{
+  margin: 20px;
+}
+.main p{
+  font-size: 23px;
+}
+.fo{
+  margin-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.nav-item{
+  font-size: 25px;
+}
